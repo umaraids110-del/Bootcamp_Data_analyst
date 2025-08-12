@@ -1,4 +1,5 @@
-📊 DAY 8 - Data Analysis with Databricks
+📊 DAY 8 - Data Analysis with Databricks:
+
 📌 Project Overview
 This repository contains data analysis using Databricks. The project involves setting up an environment, loading data from Gapminder, and visualizing insights through charts and dashboards.
 
